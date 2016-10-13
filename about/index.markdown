@@ -3,9 +3,6 @@ layout: default
 title: about
 ---
 
-This is where you would but a short bio, and/or a description of your site. It also serves as an example of how to set up a standalone page. For example:
+I am currently a student at Heritage High School. I also attend the Rockdale College and Career Academy (RCA), in which I am enrolled in the Electronics, Computer Science, and Computer Networking pathways. I am an RCA Student Ambassador, a member of my home school's Model Arab Legaue, National Honor Society, and Tennis team. 
 
-<img src="/images/shakespeare.png" class="right" />
-**William Shakespeare** (26 April 1564 – 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright.
-
-Shakespeare was born and brought up in Stratford-upon-Avon. At the age of 18, he married Anne Hathaway—no, not *that* Anne Hathaway—with whom he had three children.
+When I am not studying for my classes I am working on any of my different projects that ussually include computers, electronics, micro-controllers etc. Other hobbies inlcude politics, working out, and binge watching Netflix. 
