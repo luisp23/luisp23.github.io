@@ -3,12 +3,21 @@ layout: default
 title: About
 ---
 
+<figure>
+  <img src="/images/clusters" alt="The Pulpit Rock" width="304" height="228">
+  <figcaption>Old cluster setup in CS lab.</figcaption>
+</figure>
 
 In the fall of 2015 I was approached by my computer science teacher with a new project that he had in mind. After reading on the Internet about computer clusters with small Raspberry Pi's, we decided to attempt to build our own parallel processing computer in our Cisco lab using many of the spare computers we had available. This would result in our very own "super computer". We would then use this computer cluster to explore different applications in parallel programming.
 
 I began this project with very minimal knowledge or experience using Linux, and even more so with parallel processing. As you do with anything new, I had to do lots of research to understand many of the concepts. Doing research was no easy task, as no matter how much I searched, I failed to find a "complete guide" that not only offered steps to building a cluster, but an explanation of what I was doing. I ended up having to use many different articles, guides and the great wisdom that can only come from Linux forums as aid.
 
 Throughout the project I incorporated various methods that I came across during my research. Through a strenuous process of trial and error I took what worked best, from deciding which operating system to use, to deciding what kind of file-system structure I wanted to have, and I implemented it into my cluster. 
+
+<center><figure>
+  <img src="images/clus" alt="The Pulpit Rock" width="304" height="228">
+  <figcaption>Presenting the cluster at the technolgy fair. </figcaption>
+</figure></center>
 
 I completed the computer cluster and entered it into the Rockdale County Technology Fair for Internet Applications. I demonstrated how I built the cluster and a small application that calculated a certain amount of values for pi, each time faster as I added nodes. As the judges hadn't seen a project like this before, they struggled deciding which category it would best fit (I entered it into Internet Applications as the category description included "making use of Local Area Networks, which is what a computer cluster essentially is). The judges decided to switch me to a different category, Device Modification, in which I placed 2nd. 
 
