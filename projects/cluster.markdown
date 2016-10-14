@@ -20,7 +20,7 @@ Throughout the project I incorporated various methods that I came across during 
 
  
 <figure>
-  <img src="/images/clus.jpg" alt="clus" height="300" width="450">
+  <img src="/images/clus.jpg" alt="clus" height="400" width="500">
   <figcaption>Presenting the cluster at the technolgy fair. </figcaption>
 </figure>
 
