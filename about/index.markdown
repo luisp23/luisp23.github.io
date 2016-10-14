@@ -3,7 +3,13 @@ layout: default
 title: about
 ---
 
-<p><img src="/images/gatech.png"  />
+<p><img src="/images/"  />
+
+<figure>
+  <img src="/images/DSC01720-1.JPG" alt="clus" height="400" width="500" />
+  <figcaption>Working on the AutoRally platform at the Georgia Institute of Technology. I did a robotics research apprenticeship there during the summer of 2016. </figcaption>
+</figure>
+
 
 I am currently a student at Heritage High School.<br>
 I also attend the Rockdale College and Career Academy (RCA), in which I am enrolled in the Electronics, Computer Science, and Computer Networking pathways. <br>
