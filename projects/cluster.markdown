@@ -20,10 +20,11 @@ Throughout the project I incorporated various methods that I came across during 
 
  
 <figure>
-  <img src="/images/clus.jpg" alt="clus" height="500" width="800">
+  <img src="/images/clus.jpg" alt="clus" height="250" width="450">
   <figcaption>Presenting the cluster at the technolgy fair. </figcaption>
 </figure>
-</p>
+
+<br>
 
 I completed the computer cluster and entered it into the Rockdale County Technology Fair for Internet Applications. I demonstrated how I built the cluster and a small application that calculated a certain amount of values for pi, each time faster as I added nodes. As the judges hadn't seen a project like this before, they struggled deciding which category it would best fit (I entered it into Internet Applications as the category description included "making use of Local Area Networks, which is what a computer cluster essentially is). The judges decided to switch me to a different category, Device Modification, in which I placed 2nd. 
 
