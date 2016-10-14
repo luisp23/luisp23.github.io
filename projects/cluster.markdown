@@ -4,7 +4,7 @@ title: About
 ---
 
 <figure>
-  <img src="/images/clusters" alt="The Pulpit Rock" width="304" height="228">
+  <img src="/images/clusters.jpg" alt="cluster">
   <figcaption>Old cluster setup in CS lab.</figcaption>
 </figure>
 
