@@ -6,7 +6,7 @@ title: about
 
 <figure>
   <img src="/images/DSC01720-1.JPG" alt="clus" height="400" width="500" />
-  <figcaption>Working on the AutoRally platform at the Georgia Institute of Technology. I did a robotics research apprenticeship there during the summer of 2016. </figcaption>
+  <figcaption>Working on the AutoRally platform at the Georgia Institute of Technology, where I completed a robotics research apprenticeship  during the summer of 2016. </figcaption>
 </figure>
 
 <br>
