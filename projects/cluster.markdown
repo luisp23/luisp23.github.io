@@ -15,7 +15,7 @@ I began this project with very minimal knowledge or experience using Linux, and 
 Throughout the project I incorporated various methods that I came across during my research. Through a strenuous process of trial and error I took what worked best, from deciding which operating system to use, to deciding what kind of file-system structure I wanted to have, and I implemented it into my cluster. 
 
 <center><figure>
-  <img src="images/clus" alt="The Pulpit Rock" width="304" height="228">
+  <img src="images/clus.jpg" alt="clus">
   <figcaption>Presenting the cluster at the technolgy fair. </figcaption>
 </figure></center>
 
