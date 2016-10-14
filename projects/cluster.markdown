@@ -4,7 +4,7 @@ title: About
 ---
 
 <figure>
-  <img src="/images/clusters.jpg" alt="cluster" height="300" width="300">
+  <img src="/images/clusters.jpg" alt="cluster" height="700" width="100">
   <figcaption>Old cluster setup in CS lab.</figcaption>
 </figure>
 
@@ -15,7 +15,7 @@ I began this project with very minimal knowledge or experience using Linux, and 
 Throughout the project I incorporated various methods that I came across during my research. Through a strenuous process of trial and error I took what worked best, from deciding which operating system to use, to deciding what kind of file-system structure I wanted to have, and I implemented it into my cluster. 
 
 <center><figure>
-  <img src="images/clus.jpg" alt="clus" height="300" height="300">
+  <img src="images/clus.jpg" alt="clus" height="700" width="1000">
   <figcaption>Presenting the cluster at the technolgy fair. </figcaption>
 </figure>
 
