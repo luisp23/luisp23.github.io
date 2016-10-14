@@ -8,7 +8,8 @@ title: About
   <figcaption>Old cluster setup in CS lab.</figcaption>
 </figure>
 
-<br></br>
+<br>
+<br>
 
 In the fall of 2015 I was approached by my computer science teacher with a new project that he had in mind. After reading on the Internet about computer clusters with small Raspberry Pi's, we decided to attempt to build our own parallel processing computer in our Cisco lab using many of the spare computers we had available. This would result in our very own "super computer". We would then use this computer cluster to explore different applications in parallel programming.
 
