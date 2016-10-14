@@ -4,7 +4,7 @@ title: About
 ---
 
 <figure>
-  <img src="/images/clusters.jpg" alt="cluster" height="700" width="100">
+  <img src="/images/clusters.jpg" alt="cluster" height="700" width="1000">
   <figcaption>Old cluster setup in CS lab.</figcaption>
 </figure>
 
