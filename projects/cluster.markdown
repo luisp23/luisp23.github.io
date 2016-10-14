@@ -15,5 +15,5 @@ I completed the computer cluster and entered it into the Rockdale County Technol
 
 During the summer of 2016 I began write  documentation for this project. I began writing a guide, outlining the steps neccessary to complete a computer cluster with detailed explantions for every step. My hope is that this guide can serve as a standalone reference, an alternative to the hours of internet scavenging I did. Hopefull others can use this to build their own Beowulf Clusters and delve in to the applications of parallel processing. 
 
-<a href="/projects/BeowulfClusterGuideLP "> Download the Latest Version of A Complete Guide to Building a
+<a href="https://github.com/luisp23/luisp23.github.io/blob/master/projects/BeowulfClusterGuideLP.pdf "> Download the Latest Version of A Complete Guide to Building a
 Beowulf Cluster Here </a> (As of 10/14/16)
