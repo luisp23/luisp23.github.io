@@ -4,7 +4,7 @@ title: About
 ---
 
 <figure>
-  <img src="/images/clusters.jpg" alt="cluster">
+  <img src="/images/clusters.jpg" alt="cluster" height="300" width="300">
   <figcaption>Old cluster setup in CS lab.</figcaption>
 </figure>
 
@@ -15,9 +15,9 @@ I began this project with very minimal knowledge or experience using Linux, and 
 Throughout the project I incorporated various methods that I came across during my research. Through a strenuous process of trial and error I took what worked best, from deciding which operating system to use, to deciding what kind of file-system structure I wanted to have, and I implemented it into my cluster. 
 
 <center><figure>
-  <img src="images/clus.jpg" alt="clus">
+  <img src="images/clus.jpg" alt="clus" height="300" height="300">
   <figcaption>Presenting the cluster at the technolgy fair. </figcaption>
-</figure></center>
+</figure>
 
 I completed the computer cluster and entered it into the Rockdale County Technology Fair for Internet Applications. I demonstrated how I built the cluster and a small application that calculated a certain amount of values for pi, each time faster as I added nodes. As the judges hadn't seen a project like this before, they struggled deciding which category it would best fit (I entered it into Internet Applications as the category description included "making use of Local Area Networks, which is what a computer cluster essentially is). The judges decided to switch me to a different category, Device Modification, in which I placed 2nd. 
 
