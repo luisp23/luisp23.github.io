@@ -13,11 +13,13 @@ In the fall of 2015 I was approached by my computer science teacher with a new p
 I began this project with very minimal knowledge or experience using Linux, and even more so with parallel processing. As you do with anything new, I had to do lots of research to understand many of the concepts. Doing research was no easy task, as no matter how much I searched, I failed to find a "complete guide" that not only offered steps to building a cluster, but an explanation of what I was doing. I ended up having to use many different articles, guides and the great wisdom that can only come from Linux forums as aid.
 
 Throughout the project I incorporated various methods that I came across during my research. Through a strenuous process of trial and error I took what worked best, from deciding which operating system to use, to deciding what kind of file-system structure I wanted to have, and I implemented it into my cluster. 
-
+<p align="center">
+ 
 <figure>
   <img src="/images/clus.jpg" alt="clus" height="500" width="800">
   <figcaption>Presenting the cluster at the technolgy fair. </figcaption>
 </figure>
+</p>
 
 I completed the computer cluster and entered it into the Rockdale County Technology Fair for Internet Applications. I demonstrated how I built the cluster and a small application that calculated a certain amount of values for pi, each time faster as I added nodes. As the judges hadn't seen a project like this before, they struggled deciding which category it would best fit (I entered it into Internet Applications as the category description included "making use of Local Area Networks, which is what a computer cluster essentially is). The judges decided to switch me to a different category, Device Modification, in which I placed 2nd. 
 
