@@ -7,12 +7,14 @@ title: About
   <img src="/images/clusters.jpg" alt="cluster" height="400" width="700">
   <figcaption>Old cluster setup in CS lab.</figcaption>
 </figure>
-
+<center>
 In the fall of 2015 I was approached by my computer science teacher with a new project that he had in mind. After reading on the Internet about computer clusters with small Raspberry Pi's, we decided to attempt to build our own parallel processing computer in our Cisco lab using many of the spare computers we had available. This would result in our very own "super computer". We would then use this computer cluster to explore different applications in parallel programming.
 
 I began this project with very minimal knowledge or experience using Linux, and even more so with parallel processing. As you do with anything new, I had to do lots of research to understand many of the concepts. Doing research was no easy task, as no matter how much I searched, I failed to find a "complete guide" that not only offered steps to building a cluster, but an explanation of what I was doing. I ended up having to use many different articles, guides and the great wisdom that can only come from Linux forums as aid.
 
 Throughout the project I incorporated various methods that I came across during my research. Through a strenuous process of trial and error I took what worked best, from deciding which operating system to use, to deciding what kind of file-system structure I wanted to have, and I implemented it into my cluster. 
+
+</center>
 <p align="center">
  
 <figure>
