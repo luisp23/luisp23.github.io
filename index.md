@@ -35,3 +35,6 @@ presence through social media and other online services
 * Worked as high-school apprentice with the AutoRally research lab in maintaining and developing the AutoRally platform<br/>
 * Work included assisting in development of Odometry and steering software control, robot hardware and electronics<br/>
 maintenance, test-site data collection, and creating project Operating Procedures documentation.
+
+
+        
