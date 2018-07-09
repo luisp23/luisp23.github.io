@@ -12,12 +12,12 @@ layout: default
 ## Experience
 
 ### Undergraduate Research Intern | Georgia Tech Research Institute
-*Intern at the Cybersecurity, Information Protection, and Hardware Evaluation Research (CIPHER) Laboratory<br/>
-*Goal is to examine and assess the existence of cyber security found within hardware devices.
+* Intern at the Cybersecurity, Information Protection, and Hardware Evaluation Research (CIPHER) Laboratory<br/>
+* Goal is to examine and assess the existence of cyber security found within hardware devices.
 
 ### Sub-team lead | Active Safety for Autonomous and Semi-Autonomous Vehicles, Vertically Integrated Project (VIP)
-*As Sub-Team Lead, tasked with managing fellow undergraduate students who are a part of the AutoRally sub-team for this VIP<br/>
-*As Sub-Team Member, tasked with assisting the AutoRally research lab in maintaining the AutoRally platforms: high-speed, off- road autonomous robots used for advanced perception and control research
+* As Sub-Team Lead, tasked with managing fellow undergraduate students who are a part of the AutoRally sub-team for this VIP<br/>
+* As Sub-Team Member, tasked with assisting the AutoRally research lab in maintaining the AutoRally platforms: high-speed, off- road autonomous robots used for advanced perception and control research
 
 ### Private Tutoring/Mentoring
 *Worked closely with rising 5 th grade student over the summer in teaching Java programming; guidance in developing student’s application for Technology Fair competition guidance and mentorship in designing, building and flying custom drone; taught basic electronics and soldering skills; taught basic Arduino microcontroller electronics and programming
