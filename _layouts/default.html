@@ -19,8 +19,10 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
+      
+
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" style=" border-radius: 50%"/>
         {% endif %}
 
         <p>I'm a Computer Engineering undergraduate student with an interest in robotics and research. </p>
