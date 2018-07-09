@@ -3,8 +3,7 @@ layout: default
 ---
 
 ## Education
-## B.S Computer Engineering <br/>
-## Georgia Institute of Technology 
+## B.S Computer Engineering <br/> Georgia Institute of Technology 
 
 
 * * *
@@ -32,7 +31,7 @@ presence through social media and other online services
 ### Networking Specialist | Rockdale Career Academy
 * Computer hardware/software troubleshooting, maintenance and repair; Physical/logical network troubleshooting,maintenance, design and implementation
 
-### Robotics Research Apprentice | Georgia Institute of Technology
+### Robotics Research Apprentice | <br/> Georgia Institute of Technology
 * Worked as high-school apprentice with the AutoRally research lab in maintaining and developing the AutoRally platform<br/>
 * Work included assisting in development of Odometry and steering software control, robot hardware and electronics<br/>
 maintenance, test-site data collection, and creating project Operating Procedures documentation.
