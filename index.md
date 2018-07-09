@@ -2,6 +2,64 @@
 layout: default
 ---
 
+# Education
+## Georgia Institute of Technology
+### B.S Computer Engineering, School of Electrical and Computer Engineering
+
+* * *
+
+# Experience
+## Active Safety for Autonomous and Semi-Autonomous Vehicles, Vertically Integrated Project (VIP)
+
+As Sub-Team Lead, tasked with managing fellow undergraduate students who are a part of the AutoRally sub-team for this VIP;
+set semester goals for students, track progress, provide guidance and support; arrange meetings, facilitate cooperation with
+other sub-teams, and communicate progress to Principal Investigator (PI)
+
+As sub-team member, tasked with assisting the AutoRally research lab in maintaining the AutoRally platforms: high-speed, off-
+road autonomous robots used for advanced perception and control research; tasked with assiting other VIP members and PI’s
+Ph.D. students to use the AutoRally platform for their research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
