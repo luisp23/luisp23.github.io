@@ -2,39 +2,44 @@
 layout: default
 ---
 
+## About Me
 
-## Education
-## B.S Computer Engineering <br/> [Georgia Institute of Technology](http://www.gatech.edu/)
+<img class="profile-picture" src="sherlock.jpg">
 
-* * *
+Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
-## Experience
+This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-### Undergraduate Research Intern <br/> [Georgia Tech Research Institute](https://www.gtri.gatech.edu/)
-* Intern at the Cybersecurity, Information Protection, and Hardware Evaluation Research [(CIPHER)](https://www.gtri.gatech.edu/laboratories/cybersecurity-information-protection-and-hardware-evaluation-research) Laboratory<br/>
-* Goal is to examine and assess the existence of cyber security found within hardware devices.
+## Research Interest
 
-### Sub-team lead <br/> [Active Safety for Autonomous and Semi-Autonomous Vehicles, Vertically Integrated Project (VIP)](http://www.vip.gatech.edu/teams/active-safety-autonomous-and-semi-autonomous-vehicles)
-* As Sub-Team Lead, tasked with managing fellow undergraduate students who are a part of the AutoRally sub-team for this VIP<br/>
-* As Sub-Team Member, tasked with assisting the [AutoRally research lab](http://autorally.github.io/) in maintaining the AutoRally platforms: high-speed, off- road autonomous robots used for advanced perception and control research
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-### Private Tutoring/Mentoring
-* Worked closely with rising 5 th grade student over the summer in teaching Java programming; guidance in developing student’s application for Technology Fair competition * Guidance and mentorship in designing, building and flying custom drone; taught basic electronics and soldering skills; taught basic Arduino microcontroller electronics and programming
+## Publications
 
-### CNC Programmer/IT Specialist <br/> [Americraft Custom Cabinetry](https://www.americraft.us/)
-* Advised and implemented infrastructure upgrades for existing network, technology and workshop machines.<br/>
-* Developed new cabinet production methods using available infrastructure; led to faster and more cost-effective project<br/>
-production; Custom designed CNC machining – custom shapes, engraved text, patterns, etc.<br/>
-* Developed, designed and launched company website; hosting and domain service management ; bolstered company’s online
-presence through social media and other online services
+1. F.Bar, J.Doe: Effects of having a placeholder of a name
+2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-### Networking Specialist <br/> [Rockdale Career Academy](https://rca.rockdaleschools.org/)
-* Computer hardware/software troubleshooting, maintenance and repair; Physical/logical network troubleshooting,maintenance, design and implementation
+## Typography
 
-### Robotics Research Apprentice  <br/> Georgia Institute of Technology
-* Worked as high-school apprentice with the AutoRally research lab in maintaining and developing the AutoRally platform<br/>
-* Work included assisting in development of Odometry and steering software control, robot hardware and electronics<br/>
-maintenance, test-site data collection, and creating project Operating Procedures documentation.
+This is a [link](http://google.com). Something *italics* and something **bold**.
 
+Here is a table
 
-        
+Year | Award | Category
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
+
+Here is a horizontal rule
+
+---
+
+Here is a blockquote
+
+> To a great mind, nothing is little
+
+## References
+
+* Foo Bar: Head of Department, Placeholder Names, Lorem
+* John Doe: Associate Professor, Department of Computer Science, Ipsum
