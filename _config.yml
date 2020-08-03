@@ -1,4 +1,4 @@
 title: Luis M. Pimentel
 logo: /assets/img/headshot.jpeg
 google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: ankitsultana/researcher@gem
