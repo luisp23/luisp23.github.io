@@ -1,24 +1,23 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/luisp23.github.io"
+title: luis pimentel 
+baseurl: "/luisp23.github.io/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./me.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
+footer_url: ""
+footer_text: ""
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
+ - name: "about"
+   link: "index"
+ - name: "resume"
    link: "resume.pdf"
- - name: "Contact"
+ - name: "contact"
    link: "contact"
