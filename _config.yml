@@ -1,4 +1,4 @@
-title: luis pimentel 
+title: luis m. pimentel 
 baseurl: "/luisp23.github.io/"
 
 markdown: kramdown
@@ -17,7 +17,14 @@ sass:
 nav:
  - name: "about"
    link: "index"
+ - name: "projects"
+   link: "projects"
+ - name: "writing"
+   link: "writing"
  - name: "resume"
    link: "resume.pdf"
  - name: "contact"
    link: "contact"
+
+plugins:
+  - jekyll-seo-tag
