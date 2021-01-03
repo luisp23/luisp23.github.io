@@ -26,10 +26,13 @@ In my time at Georgia Tech I have contributed to multiple robotics research proj
 **2017-2020** → Dean's List \\
 **2018-2020** → Georgia Tech Tower Award \\
 **2019** → Georgia Tech Best New Organization of the Year Award – Boxing Club \\
+**2018** → GCAA Scholarship Recipient \\
+**2017** → Martin Marietta Scholarship Recipient \\
 **2017** → Hispanic Scholarship Fund Scholar \\
 **2016** → Hispanic Heritage Youth Award Recipient (Gold – Engineering) \\
 **2016** → 1st Place in Robotics at the Georgia State Technology Fair \\
-**2016** → 1st Place SkillsUSA State Champion in Internetworking 
+**2016** → 1st Place SkillsUSA State Champion in Internetworking \\
+**2015** →  State Finalist for Electrical Applications at GA Technology Student Association State Conference
  
 
 
