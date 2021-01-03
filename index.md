@@ -9,7 +9,7 @@ I am expected to start an [M.S. in Electrical and Computer Engineering](https://
 ---
 ## research
 
-My research interests are in the areas of robotics, optimal control, and optimization. I have extensive hardware and software experience in research applications related to multicopter and autonomous driving platforms. 
+My research interests are in the areas of robotics, control, and optimization. I have extensive hardware and software experience in research applications related to multicopter and autonomous driving platforms. In my projects I have developed applications related to optimal control, trajectory-optimization, planning, state-estimation, and modeling/simulation. 
 
 Through my coursework I have been recently interested in the intersection of reinforcement learning and controls. I will continue to pursue curriculum in machine learning areas as I finish my degree. 
 
