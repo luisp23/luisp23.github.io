@@ -11,7 +11,7 @@ I am expected to start an [M.S. in Electrical and Computer Engineering](https://
 
 My research interests are in the areas of autonomy, robotics, control, and optimization. I have extensive hardware and software experience in research applications related to multicopter and autonomous driving platforms. In my projects I have developed applications related to optimal control, trajectory-optimization, planning, state-estimation, and modeling/simulation. 
 
-Through my coursework I have been recently interested in the intersection of reinforcement learning and controls. I will continue to pursue curriculum in machine learning areas as I finish my undergraduate degree. 
+Through my coursework I have been recently interested in the intersection of machine learning and controls, and will continue to pursue curriculum in machine learning areas as I finish my undergraduate degree. 
 
 ---
 ## experience
@@ -26,13 +26,9 @@ In my time at Georgia Tech I have contributed to multiple robotics research proj
 **2017-2020** → Dean's List \\
 **2018-2020** → Georgia Tech Tower Award \\
 **2019** → Georgia Tech Best New Organization of the Year Award – Boxing Club (President, co-founder) \\
-**2018** → GCAA Scholarship Recipient \\
 **2017** → Martin Marietta Scholarship Recipient \\
 **2017** → Hispanic Scholarship Fund Scholar \\
 **2016** → Hispanic Heritage Youth Award Recipient (Gold – Engineering) \\
-**2016** → 1st Place in Robotics at the Georgia State Technology Fair \\
-**2016** → 1st Place SkillsUSA State Champion in Internetworking \\
-**2015** → Finalist for Electrical Applications at GA Technology Student Association State Conference
- 
+**2016** → 1st Place in Robotics at the Georgia State Technology Fair
 
 
