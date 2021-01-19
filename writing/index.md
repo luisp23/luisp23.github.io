@@ -2,10 +2,10 @@
 layout: default
 ---
 
-Directory to blog/technical writings on various topics I find interesting. Some of these have been based on assignments/reports that I enjoyed and learned a lot from; others are based on courses I have taken, or research I have done.   
+Directory to blog/technical writings on various topics I find interesting. Some of these have been based on assignments/reports that I enjoyed and learned a lot from; others are based on courses/course notes I have taken, research I have done, or personal projects.   
 
 ---
-### [Reinforcement Learning for Control Systems](Reinforcement Learning  for Control Systems.pdf)
+### [Reinforcement Learning for Control Systems](Reinforcement Learning  for Control Systems.pdf)s
 <img style="float:left; width:210px;" src="gradient_ascent.png">
 
 This is a final report that I completed for my [Mathematical Foundations of Data Science](https://mdav.ece.gatech.edu/ece-4803-fall2020/) course. In this I explore the intersection of reinforcement learning and control systems, and apply basic optimal policy estimation techniques. I apply this to an inverted cart pendulum and reformulate the Linear Quadratic Regulator (LQR) control problem as a reinforcement learning problem in order to **learn** the optimal LQR gains in a "model-free" Matlab experiment/simulation. [See accompanying presentation slides.](Reinforcement Learning  for Control Systems presentation.pdf)
