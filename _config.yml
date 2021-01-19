@@ -1,8 +1,7 @@
 title: luis m. pimentel 
 baseurl: "/luisp23.github.io/"
-
 markdown: kramdown
-ins_logo: "./me3.png"
+ins_logo: "me3.png"
 
 tracking_id: #
 
@@ -20,7 +19,7 @@ nav:
  - name: "projects"
    link: "projects"
  - name: "writing"
-   link: "writing"
+   link: "writing/index"
  - name: "resume"
    link: "resume.pdf"
  - name: "contact"
