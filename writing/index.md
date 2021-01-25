@@ -22,7 +22,5 @@ This post details a derivation of the Differential Dynamic Programming algorithm
 
 This is a final white paper that I completed for my INTA 2030 International Affairs course where we focused on the ethical aspects of various new technologies being used and incorporated into society. My white paper was on the topic of Autonomous Vehicle (AV) technology. This white paper introduces the autonomous vehicle industry and various self-driving technologies. I then explore various societal implications and ethical dilemmas that autonomous vehicles will bring in the future, and propose guidelines to regulate and govern the AV industry in order to ensure that these technologies are ethical. [See accompanying presentation slides.](The Imminent Challenges of Autonomous Vehicles and How To Ethically Address Them presentation.pdf)
 
-
-<br/><br/> 
 <br/><br/> 
 <br/><br/> 

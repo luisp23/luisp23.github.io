@@ -31,4 +31,5 @@ In my time at Georgia Tech I have contributed to multiple robotics research proj
 **2016** → Hispanic Heritage Youth Award Recipient (Gold – Engineering) \\
 **2016** → 1st Place in Robotics at the Georgia State Technology Fair
 
-
+<br/><br/> 
+<br/><br/> 

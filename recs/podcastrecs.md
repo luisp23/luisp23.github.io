@@ -24,4 +24,3 @@ Page for me to write about my favorite podcasts.
 - [Jordan Burroughs](https://open.spotify.com/episode/6j9JygkIR2MsNLGZA9Suc3)
 - [Israel Adesanya](https://www.youtube.com/watch?v=yZKhfZ25L4o)
 - [Mike Tyson](https://www.youtube.com/watch?v=hcPUoxTvw5g)
-
