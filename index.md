@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am currently an undergraduate student at the [Georgia Institute of Technology](https://www.gatech.edu/) where I will be completing a [B.S. in Computer Engineering](https://www.ece.gatech.edu/) with a [Minor in Robotics](http://www.robotics.gatech.edu/) in the **Fall of 2021**.
+I am currently an undergraduate student at the [Georgia Institute of Technology](https://www.gatech.edu/) where I will be completing a [B.S. in Computer Engineering](https://www.ece.gatech.edu/) with a [Minor in Robotics](http://www.robotics.gatech.edu/) in the **Fall of 2021**. I am expected to start an [M.S. in Electrical and Computer Engineering](https://www.ece.gatech.edu/academics/graduate-studies) in the **Spring of 2022** with a concentration in [Systems and Controls](https://www.ece.gatech.edu/research/tigs/systems-controls). 
 
-I am expected to start an [M.S. in Electrical and Computer Engineering](https://www.ece.gatech.edu/academics/graduate-studies) in the **Spring of 2022** with a concentration in [Systems and Controls](https://www.ece.gatech.edu/research/tigs/systems-controls). 
+In my free time I enjoy [reading](recs/bookrecs.md), [listening to podcasts](recs/podcastrecs.md), and [ocassionally getting punched in the face](https://georgiatechboxing.com/).
 
 ---
 ## research
