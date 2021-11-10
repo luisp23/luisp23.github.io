@@ -2,16 +2,18 @@
 layout: default
 ---
 
-I am currently an undergraduate student at the [Georgia Institute of Technology](https://www.gatech.edu/) where I will be completing a [B.S. in Computer Engineering](https://www.ece.gatech.edu/) with a [Minor in Robotics](http://www.robotics.gatech.edu/) in the **Fall of 2021**. I am expected to start an [M.S. in Electrical and Computer Engineering](https://www.ece.gatech.edu/academics/graduate-studies) in the **Spring of 2022** with a concentration in [Systems and Controls](https://www.ece.gatech.edu/research/tigs/systems-controls). 
+I am currently an undergraduate student at the [Georgia Institute of Technology](https://www.gatech.edu/) where I will be completing a [B.S. in Computer Engineering](https://www.ece.gatech.edu/) with a [Minor in Robotics](http://www.robotics.gatech.edu/) in the **Fall of 2021**. 
 
-In my free time I enjoy [reading](recs/bookrecs.md), [listening to podcasts](recs/podcastrecs.md), and [ocassionally getting punched in the face](https://georgiatechboxing.com/).
+I will be starting an [M.S. in Electrical and Computer Engineering](https://www.ece.gatech.edu/academics/graduate-studies) in the **Spring of 2022**. 
+
+In my free time I enjoy reading, listening to podcasts, and [ocassionally getting punched in the face](https://georgiatechboxing.com/).
 
 ---
 ## research
 
-My research interests are in the areas of autonomy, robotics, control, and optimization. I have extensive hardware and software experience in research applications related to multicopter and autonomous driving platforms. In my projects I have developed applications related to optimal control, trajectory-optimization, planning, state-estimation, and modeling/simulation. 
+My research interests are in the areas of autonomous robotics systems, control, perception, and deep reinforcement learning. I have developed applications in these areas through projects related to autonomous driving vehicles, water surface vehicles and aerial vehicles (multi-copters). 
 
-Through my coursework I have been recently interested in the intersection of machine learning and controls, and will continue to pursue curriculum in machine learning areas as I finish my undergraduate degree. 
+Through my coursework and research work at Sandia National Laboratories, I have been recently interested in the intersection of machine learning and controls - namely deep reinforcement learning. I will continue to pursue this research area in my coursework as I begin my graduate career at the Georgia Institute of Technology. 
 
 ---
 ## experience
