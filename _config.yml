@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Person who travels the world eating noodles
+name: luis m. pimentel
+bio: Graduate student.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,10 +8,10 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile3.png
 
 # your site color theme, false to light theme
-dark-theme: true
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
