@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>
-I am a first-year graduate student at the <a href="https://www.gatech.edu/" style="text-decoration:none;font-weight:bold">Georgia Institute of Technology</a> working towards my <a href="" style="text-decoration:none;font-weight:bold">Master's in Electrical and Computer Engineering</a>. My current research interests are in the areas of <strong>robotics</strong> and <strong>reinforcement learning</strong>. I aspire to build robots that can understand the real world, and learn how to intelligently navigate it.
+I am a first-year graduate student at the <a href="https://www.gatech.edu/" style="text-decoration:none;font-weight:bold">Georgia Institute of Technology</a> working towards my <a href="" style="text-decoration:none;font-weight:bold">Master's in Electrical and Computer Engineering</a>. My current research interests are in the areas of <strong>robotics</strong> and <strong>reinforcement learning</strong>. I aspire to build robots that can understand and learn how to intelligently navigate their complex, real world environments. 
 </p>
 
 <p>
