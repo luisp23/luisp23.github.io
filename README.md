@@ -1,1 +1,0 @@
-my personal academic website [in progress]
