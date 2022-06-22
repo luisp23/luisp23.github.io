@@ -1,54 +1,138 @@
----
-layout: compress
----
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html lang="en">
+
 <head>
+  <title>{{ site.name }}</title>
 
-    {% if site.analytics-google %}
-        {% include analytics-google.html %}
-    {% endif %}
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
-    <meta charset="utf-8">
-    <meta name=viewport content="width=device-width, initial-scale=1">
-    <meta name=author content="{{ site.name }}">
+  <meta name="author" content="{{ site.name }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% seo %}
-
-    <!-- {% include favicon.html %} -->
-
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
-
-    <style>
-    {% if site.dark-theme %}
-        {% capture scss_sheet %}{% include style-dark.scss %}{% endcapture %}
-    {% else %}
-        {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
-    {% endif %}
-
-    {{ scss_sheet | scssify }}
-    </style>
-
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link rel="icon" href="images/robot.png">
+  <!-- <meta charset="UTF-8" />
+  <title>🤖 </title>> -->
 </head>
+
 <body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:65%;vertical-align:middle">
+              <h1>
+                Luis M. Pimentel
+              </h1>
+              <p> 
+                I am currently a first-year graduate student at the <a href="https://www.gatech.edu/" style="text-decoration:none;font-weight:bold">Georgia Institute of Technology</a> working towards my <a href="" style="text-decoration:none;font-weight:bold">Master's in Electrical and Computer Engineering</a>. I am also currently a Graduate Researh & Development Intern at <a href="https://www.sandia.gov/" style="text-decoration:none;font-weight:bold">Sandia National Laboratories</a> working on robotics technologies and research applications in Sandia's <a href="https://autonomy.sandia.gov/" style="text-decoration:none;font-weight:bold">AutonomyNM laboratory</a> <strong>[Summer 2019, Summer 2020-present]</strong> .  
+              </p>
+              <p>
+                I received my <a href="" style="text-decoration:none;font-weight:bold">Bachelor's in Computer Engineering and Minor in Robotics</a> from Georgia Tech in <b>2021</b>. In my undergraduate career, I specialized in robotics coursework related to <strong>control systems</strong>, <strong>autonomy</strong>, <strong>perception</strong>, <strong>machine learning/deep learning</strong>, and have worked on multiple robotics platforms including autonomous <strong>racecars</strong>, <strong>surface vehicles</strong>, and <strong>multi-copters</strong>. Furthermore, I've had the opportunity to contribute to multiple robotics research projects in laboratories including <a href="https://autorally.github.io/" style="text-decoration:none;font-weight:bold">AutoRally</a> <strong>[Summer 2016, Fall 2017-Spring 2018]</strong>, <a href="https://www.vip.gatech.edu/teams/active-safety-autonomous-and-semi-autonomous-vehicles" style="text-decoration:none;font-weight:bold">VIP: Active Safety for Autonomous and Semi-Autonomous Vehicles</a> <strong>[Fall 2018-Spring 2019]</strong>, and <a href="https://dream.georgiatech-metz.fr/research-projects/rc-car/" style="text-decoration:none;font-weight:bold">The DREAM Lab</a> <strong>[Fall 2019]</strong>. I am also a former  Undergraduate Research Intern at the <a href="https://www.gtri.gatech.edu/" style="text-decoration:none;font-weight:bold">Georgia Tech Research Institute</a> <strong>[Summer 2018]</strong>. 
+              </p>
+              <p>
+                In my free time I enjoy reading, <a href="https://lexfridman.com/podcast/" style="text-decoration:none;font-weight:bold">listening to podcasts</a>, and <a href="https://georgiatechboxing.com/" style="text-decoration:none;font-weight:bold">ocassionally getting punched in the face</a>.
+              </p>
+              <p style="text-align:center">
+                <a target="_blank" href="lpimentel3@gatech.edu"> Email</a> &nbsp;/&nbsp;
+                <a href="pdfs/Luis-Pimentel-CV.pdf">CV</a> &nbsp;/&nbsp;
+                <a href="https://www.linkedin.com/in/lpimentel3"> LinkedIn </a> &nbsp;/&nbsp;
+                <a href="https://scholar.google.com/citations?user=GnyyaB8AAAAJ">Scholar</a> &nbsp;/&nbsp;
+                <a href="https://github.com/luisp23">GitHub</a> &nbsp;/&nbsp;
+              </p>
+            </td>
+            <td style="padding:2.5%;width:40%;max-width:40%">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/profile3.png">
+              <img style="width:100%;max-width:100%" alt="Georgia Institute of Technology" src="images/gtlogo2.png">
+              <img style="width:50%;max-width:80%;vertical-align:middle;margin:0px 10px" alt="Sandia National Laboratories" src="images/sandialogo.png">
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>News</h2>
+							<ul>
+								<li><strong>[June 2022]</strong> Our paper <strong>Scaling Multi-Agent Reinforcement Learning via State Upsampling</strong> has been accepted to the Robotics: Science and Systems Workshop on Scaling Robot Learning (RSS22-SRL).</li>
+								<li><strong>[January 2022]</strong> Began pursuing Master's degree in Electrical and Computer Engineering Georgia Tech.</li>
+								<li><strong>[December 2021]</strong> Received my Bachelor's degree in Computer Engineering w/ Robotics Minor from Georgia Tech.</li>
+							</ul>
+            </td>
+          </tr>
+        </table>
 
-    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
-        {% if page.layout == "post" %}
-            <div class="post">
-        {% else %}
-            {% if showHeader != true %}
-                <div class="page {{ page.title | downcase }}">
-            {% else %}
-                <div class="{{ page.title | downcase }}">
-            {% endif %}
-        {% endif %}
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Research</h2>
+              <p>My current research interests are in the areas of <strong>robotics</strong> and <strong>reinforcement learning</strong>. My aspiration is to build autonomous robots that, through intelligence, can understand and act within their real-world, complex environments.                
+              </p> 
+            </td>
+          </tr>
+        </table>
+        <table style="width:105%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
-            {{ content }}
-        </div>
-    </div>
+          {% for post in site.posts %}
+          {% for cat in post.categories %}
+          {% if cat == 'research' %}
+          <tr>
+            <td style="padding:0.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:0.5%;width:75%;vertical-align:middle">
+              <h3>{{post.title}}</h3>
+              <br>
+              {{post.authors}}
 
-    {% include icons.html %}
-
+              <br>
+              <!-- <em>{{post.venue}}</em>   <strong>{{ post.date | date: "%Y" }}</strong> -->
+              <em>{{post.venue}}</em> 
+              <br>
+              {% if post.paper %}
+              <a href="{{post.paper}}">paper</a> /
+              {% endif %}
+              {% if post.video %}
+              <a href="{{post.video}}">video</a> /
+              {% endif %}
+              {% if post.code %}
+              <a href="{{post.code}}">code</a> /
+              {% endif %}
+              {% if post.poster %}
+              <a href="{{post.poster}}">poster</a> /
+              {% endif %}
+              {% if post.slides %}
+              <a href="{{post.slides}}">slides</a> /
+              {% endif %}
+              <p></p>
+              {{ post.excerpt }}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+        </table>
+        <br>
+        <br>
+        <br>
+        
+        
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:0px">
+              <br>
+              <p style="text-align:center;font-size:x-small;">
+                Design and source code for this site can be <a style="font-size:x-small;" href="https://github.com/jonbarron/website">found</a>  <a style="font-size:x-small;" href="https://github.com/leonidk/new_website">here</a>.
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </body>
+
 </html>
+
